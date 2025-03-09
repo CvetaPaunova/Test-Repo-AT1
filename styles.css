@@ -1,0 +1,46 @@
+g* {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  background-color: #d47318;
+}
+header nav {
+  text-align: center;
+}
+header nav ul {
+  list-style-type: none;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+main {
+  text-align: center;
+}
+main h1 {
+  margin: 10px 0;
+}
+main .search-bar {
+  margin-bottom: 10px;
+}
+main .image-container img {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+}
+main .description p {
+  width: 500px;
+  margin: 0 auto;
+}
+main .description h3,
+main .description h4 {
+  margin-bottom: 10px;
+}
+footer {
+  text-align: center;
+  background-color: black;
+}
+footer p {
+  color: #d47318;
+}
