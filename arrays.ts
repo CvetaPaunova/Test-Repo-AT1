@@ -9,5 +9,5 @@ console.log("firstEl", firstEl);
 fruits.push("Mango");
 console.log("fruits", "fruits");
 
-numbersArray.pop();
-console.log("numbersArray", "numbersArray");
+//numbersArray.pop();
+//console.log("numbersArray", "numbersArray");
